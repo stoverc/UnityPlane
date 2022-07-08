@@ -1,4 +1,4 @@
-# UnityPlane
+# Unity Plane
  UnityLearn Challenge 1
 
  A month or so ago, my 9yo and I decided to add [Unity Learn](https://learn.unity.com/)'s [Junior Programmer pathway](https://learn.unity.com/pathway/junior-programmer) to our homeschool curriculum.
